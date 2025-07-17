@@ -1,25 +1,22 @@
 # zonasi-SMA-pagaralam
 visualisasi zonasi sekolah di pagaralam menggunakan teori graf dengan python dan turtle grafik
-# Web Laravel - Data Mahasiswa
 
-Aplikasi web Laravel untuk mengelola data mahasiswa (CRUD), dengan login dan validasi form.
-
+# Zonasi SMA Pagaralam (Teori Graf)
+Visualisasi zonasi SMA di Kota Pagaralam menggunakan turtle dan teori graf dalam Python.
 ## 📌 Fitur
-- Tambah, ubah, hapus data mahasiswa
-- Validasi form (nama, NIM, email)
-
+- Menampilkan lokasi sekolah (simpul)
+- Menarik jalur zonasi antar sekolah (graf)
+- Warna zona: kuning, biru, dll
 ## 💻 Teknologi
-- Laravel 10
-- MySQL
-- Bootstrap
-
+- Python 3
+- Turtle Graphics
 ## ▶ Cara Menjalankan
-1. Jalankan composer install
-2. Jalankan php artisan migrate
-3. Jalankan php artisan serve
+1. Buka file .py di aplikasi idle
+2. Jalankan dengan F5 atau Run
+3. Lihat visualisasi grafis zonasi
 
 ## 🖼 Screenshot
-[Lihat tampilan website di Google Drive](https://drive.google.com/drive/folders/link-screenshot)
+[Lihat hasil visualisasi di Google Drive](https://drive.google.com/drive/folders/link-screenshot)
 
 ## 📁 Status
 ✅ Selesai

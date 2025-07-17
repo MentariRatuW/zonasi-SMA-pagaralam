@@ -16,7 +16,7 @@ Visualisasi zonasi SMA di Kota Pagaralam menggunakan turtle dan teori graf dalam
 3. Lihat visualisasi grafis zonasi
 
 ## 🖼 Screenshot
-[Lihat hasil visualisasi di Google Drive](https://drive.google.com/drive/folders/link-screenshot)
+[Lihat hasil visualisasi di Google Drive](https://drive.google.com/drive/folders/14OTCwyUC3HnCtL7gZ2hTypTpg_RzcWAw)
 
 ## 📁 Status
 ✅ Selesai
